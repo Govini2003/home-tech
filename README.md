@@ -1,0 +1,4 @@
+# Used technologies
+
+- PHP
+- SQL
