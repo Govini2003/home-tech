@@ -1,4 +1,3 @@
 # Used technologies
-
 - PHP
 - SQL
